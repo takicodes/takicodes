@@ -1,6 +1,7 @@
 :root {
   --liny-back1: #040f10; /*----- legsötétebb, felső sáv */
-  --liny-back2: #04191b; /*világosabb háttér, pl. téma cím */
+  --liny-back2: #031415; /*a back3 sötétített változata */
+  --liny-back3: #04191b; /*világosabb háttér, pl. téma cím */
   --liny-reag1: #092022; /*reagháttér, posztok mögötti háttér színe */
   --liny-reag2: #0b2629; /*reagok mögötti háttér szélének a színe */
   --liny-reag3: #0c2b2d; /*oldalháttér */ 
