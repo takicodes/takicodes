@@ -9,6 +9,7 @@
   --liny-text2: #7ae9ce; /*egyik kiemelt szövegszín, fejléc1 */
   --liny-text3: #eba292; /*linkszín kurzor után */
   --liny-border1: #2a3839; /* rgba(255, 255, 255 0.15 ) -- kicsit sötétebb */
+  --liny-border2: #2f4244; /* rgba(255, 255, 255 0.2 ) -- kicsit világosabb */
   --liny-bűnüldözés: #A496D9; /*alap bűnüldözés */
   --liny-diákok: #94C295; /*alap diák */
   --liny-egészségügy: #D6AD80; /* alap egészségügy */
