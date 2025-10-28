@@ -8,12 +8,24 @@
   --liny-text1: #89b3b5; /*alap szövegszín */
   --liny-text2: #7ae9ce; /*egyik kiemelt szövegszín, fejléc1 */
   --liny-text3: #eba292; /*linkszín */
+  /*-----*/
   --liny-bűnüldözés: #A496D9; /*alap bűnüldözés */
   --liny-diákok: #94C295; /*alap diák */
   --liny-egészségügy: #D6AD80; /* alap egészségügy */
+  --liny-hivatal: #97DED4; /*alap hivatal */
   --liny-média: #74A6CC; /*alap média */
   --liny-munkások: #BFC9C9; /*alap munkás */
   --liny-oktatás: #BDAF99; /*alap oktatás */
   --liny-törvényszegők: #D98D8D; /*alap törvényszegők */
-  --liny-uzlet: #CFD18A; /*alap üzlet */
+  --liny-üzlet: #CFD18A; /*alap üzlet */
+  /*-----*/
+  --liny-bűnüldözés1: #524B6C; /*módosított bűnüldözés */
+  --liny-diákok1: #4A614A; /*módosított diákok */
+  --liny-egészségügy1: #6B5640; /*módosított egészségügy */
+  --liny-hivatal1: #3A5366; /*módosított hivatal */
+  --liny-média1: #2E5952; /*módosított média */
+  --liny-munkások1: #5F6464; /*módosított munkások */
+  --liny-oktatás1: #5E574C; /*módosított oktatás */
+  --liny-törvényszegők1: #6C4646; /*módosított törvényszegők */
+  --liny-üzlet1: #676806; /*módosított üzlet */
 }
