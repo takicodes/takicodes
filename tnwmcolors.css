@@ -5,4 +5,9 @@
   --tnwm-main4: #d3c0a2; /*krém */
   --tnwm-main5: #3e6761; /*kék */
   --tnwm-main6: #e4d9c7; /*világoskrém */
+
+  --tnwm-back1: #05090b; /*legsötétebb*/
+  --tnwm-back2: #080c0e; /*kisebb dobozok háttere*/
+
+  --tnwm-btn1: rgba(152,77,50, 0.05); /*main2 hover*/
 }
