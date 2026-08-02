@@ -1,0 +1,8 @@
+:root {
+  --tnwm-main1: #869172; /*világoszöld */
+  --tnwm-main2: #984d32; /*terrakotta */
+  --tnwm-main3: #64291b; /*bordó */
+  --tnwm-main4: #d3c0a2; /*krém */
+  --tnwm-main5: #3e6761; /*kék */
+  --tnwm-main6: #e4d9c7; /*világoskrém */
+}
